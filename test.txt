@@ -1,2 +1,0 @@
-This is a test repo for data course.
-This file is in the main branch. 
